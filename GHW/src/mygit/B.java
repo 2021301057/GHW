@@ -2,6 +2,6 @@ package mygit;
 
 public class B {
 	public static void main(String args[]) {
-		System.out.println("B is Banana in Master");
+		System.out.println("B is BananaCake in Bob");
 	}
 }
